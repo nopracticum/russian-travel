@@ -5,7 +5,7 @@ line-height: 22px;
 text-decoration-line: underline;
 text-decoration: none;
 color: white;
-transition: .335s ease-in-out;
+transition: .3s ease-in-out;
 }
   
 .place__website-url:hover {
