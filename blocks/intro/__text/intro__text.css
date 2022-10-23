@@ -1,9 +1,15 @@
 .intro__text {
+    max-width: 690px;
     margin: 0;
     font-weight: 400;
     font-size: 16px;
-    line-height: 163%;
+    line-height: 26px;
     list-style-type: none;
     padding: 0;
   }
   
+  @media screen and (max-width: 768px) {
+    .intro__text {
+      max-width: 100%;
+    }
+  }
