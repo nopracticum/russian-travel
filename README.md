@@ -16,5 +16,5 @@
 
 ## Планы по доработке
 * Оптимизировать адаптив.
-[Ссылка на проект](https://nopracticum.github.io/russian-travel/)
+[Ссылка на проект](hhttps://nopracticum.github.io/russian-travel/)
 ---
