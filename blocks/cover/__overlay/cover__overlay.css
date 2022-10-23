@@ -10,7 +10,3 @@
   cursor: pointer;
   transition: 0.5s;
 }
-
-.cover__overlay:hover {
-  opacity: 0.8;
-}

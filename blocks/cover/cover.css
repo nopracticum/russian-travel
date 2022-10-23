@@ -39,3 +39,6 @@
       min-height: 200px;
     }
   }
+  .cover:hover .cover__overlay{
+    opacity: 0.8;
+  }
